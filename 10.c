@@ -8,7 +8,7 @@ int main()
     {
         printf("%d\n",i);
     }
-    /*
+    /* 2nd method
 
     int n=5 ,i;
     for(i=1 ; i<=10 ; i++)
